@@ -1,4 +1,8 @@
 ### Hi there 👋
+I love OpenSource and am an advocate of its use. Knowledge is power and power to those who know how to use it. Knowledge alone is absurd and doesn't help anyone. I enjoy teaching and explaining.
+What is the point of expensive tech software if only bugs and errors annoy customers?
+The answer from such companies is usually: it's not a bug, it's a feature!
+suck off!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrsmcode&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
